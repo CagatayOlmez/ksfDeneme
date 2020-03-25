@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>658276412330-p1qpkjs4vbi070ghkd718jh1nld6v3dn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.658276412330-p1qpkjs4vbi070ghkd718jh1nld6v3dn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCtyG8CChik-mVv-IX5tA_TepzZSovF_AY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>658276412330</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cagatay.ksfDeneme</string>
+	<key>PROJECT_ID</key>
+	<string>ksfdeneme</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ksfdeneme.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:658276412330:ios:ed9ca6e9f6f41c736c19d3</string>
+	<key>DATABASE_URL</key>
+	<string>https://ksfdeneme.firebaseio.com</string>
+</dict>
+</plist>
